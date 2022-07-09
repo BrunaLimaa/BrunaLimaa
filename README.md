@@ -1,3 +1,4 @@
+   ![MasterHead](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Bruna Rosa</h1>
 <h3 align="center">A passionate programming student from Brazil</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/b3/9b/16/b39b168a37a070bdc9d96eb125bd4e20.gif">
