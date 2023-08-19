@@ -1,11 +1,6 @@
-   ![MasterHead](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
+![Snake animation](https://github.com/BrunaLimaa/BrunaLimaa/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Bruna Lima</h1>
-<h3 align="center">A passionate programming student from Brazil</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/b3/9b/16/b39b168a37a070bdc9d96eb125bd4e20.gif">
-
-- 🔭 I’m currently working on **MVC Project**
-
-- 🌱 I’m currently learning **PHP OOP**
 
 - 📫 How to reach me **brunarblima93@gmail.com**
 
