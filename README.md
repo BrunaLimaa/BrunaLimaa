@@ -30,6 +30,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=turquoise&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=brunarblima93@&color=D14&logoColor=white&labelColor=purple&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
 
- ![Snake animation](https://github.com/BrunaLimaa/BrunaLimaa/blob/output/github-contribution-grid-snake.svg)
+  ##
+
+  ![Snake animation](https://github.com/BrunaLimaa/BrunaLimaa/blob/output/github-contribution-grid-snake.svg)
+
+  
+</div>
