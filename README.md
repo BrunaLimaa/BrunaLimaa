@@ -43,20 +43,22 @@
 
 <br clear="both">
 
-<img align="right" height="245" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BrunaLimaa/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="255" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/317mdlxcxmgcg2z2s2d67fsmmw6y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mdlxcxmgcg2z2s2d67fsmmw6y&count=4&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mdlxcxmgcg2z2s2d67fsmmw6y&count=3&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BrunaLimaa/count.svg?"  />
 </div>
 
 ###
