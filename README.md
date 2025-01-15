@@ -40,18 +40,16 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="210" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/317mdlxcxmgcg2z2s2d67fsmmw6y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mdlxcxmgcg2z2s2d67fsmmw6y&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/317mdlxcxmgcg2z2s2d67fsmmw6y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mdlxcxmgcg2z2s2d67fsmmw6y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
