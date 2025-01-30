@@ -1,8 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5800CC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
-<h1 align="center">
+<h3 align="center">
   Hello 👋 I'm Bruna Lima 👩‍💻
-</h1>
+</h3>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
  Computer Science 🌐
@@ -29,7 +31,7 @@
   <img src="https://streak-stats.demolab.com?user=BrunaLimaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">✨ Always learning, growing, and coding! Let's build something amazing together. Feel free to connect with me! 🚀💡</p>
 
@@ -37,4 +39,4 @@
   <a href="https://www.linkedin.com/in/bruna-lima-30a70b273/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" alt="https://www.linkedin.com/in/enzo-gabriel-60963125b/" height="40" width="40" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5800CC&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
