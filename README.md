@@ -39,4 +39,4 @@
   <a href="https://www.linkedin.com/in/bruna-lima-30a70b273/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" alt="https://www.linkedin.com/in/enzo-gabriel-60963125b/" height="40" width="40" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&height=120&section=footer"/>
