@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&height=120&section=header"/>
 
 <h3 align="center">
   Hello 👋 I'm Bruna Lima 👩‍💻
